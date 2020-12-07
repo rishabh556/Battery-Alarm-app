@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "741974207664",
+    "firebase_url": "https://battery-6a679.firebaseio.com",
+    "project_id": "battery-6a679",
+    "storage_bucket": "battery-6a679.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741974207664:android:1445a76b3b77f7873c1f75",
+        "android_client_info": {
+          "package_name": "com.example.battery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741974207664-11tjqqmqbu94gkskvfn3r95mff8lcmh8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.battery",
+            "certificate_hash": "0571ebc19ff8422a31695cef2cf8970e6ce07783"
+          }
+        },
+        {
+          "client_id": "741974207664-c9rs753t2ls7veon4gnoars7sodv8kvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPmvWViVZ7IS2sM3iobIZjQsOQjLe_LsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741974207664-c9rs753t2ls7veon4gnoars7sodv8kvf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

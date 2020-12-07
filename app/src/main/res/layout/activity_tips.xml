@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/b1"
+    tools:context=".Tips">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="385dp"
+            android:layout_height="87dp"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/aclonica"
+            android:text="Improve Battery Life By Following Below Tips:"
+            android:textAlignment="center"
+            android:textColor="@color/cardview_light_background"
+            android:textSize="24sp" />
+
+        <TextView
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="12dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/aclonica"
+            android:text="Switch on battery saver mode."
+            android:textColor="@color/colorAccent"
+            android:textSize="24sp" />
+        <TextView
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="12dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/aclonica"
+            android:text="Turn off bluetooth and wi-fi when not in use ..."
+            android:textColor="@color/colorAccent"
+            android:textSize="24sp" />
+        <TextView
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="12dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/aclonica"
+            android:text="But use wi-fi when it is available"
+            android:textColor="@color/colorAccent"
+            android:textSize="24sp" />
+
+        <TextView
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="12dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/aclonica"
+            android:text="Turn on airplane mode."
+            android:textColor="@color/colorAccent"
+            android:textSize="24sp" />
+        <TextView
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="12dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/aclonica"
+            android:text="Lower the screen brightness."
+            android:textColor="@color/colorAccent"
+            android:textSize="24sp" />
+
+        <TextView
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="12dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/aclonica"
+            android:text="Delete the facebook app and use your browser instead."
+            android:textColor="@color/colorAccent"
+            android:textSize="24sp" />
+        <TextView
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="12dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/aclonica"
+            android:text="Turn off location tracking for apps that don’t need it"
+            android:textColor="@color/colorAccent"
+            android:textSize="24sp" />
+        <TextView
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="12dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/aclonica"
+            android:text="Turn off background refresh"
+            android:textColor="@color/colorAccent"
+            android:textSize="24sp" />
+
+        <TextView
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="12dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/aclonica"
+            android:text="Turn off airdrop."
+            android:textColor="@color/colorAccent"
+            android:textSize="24sp" />
+        <TextView
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="12dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/aclonica"
+            android:text="Turn off spotlight."
+            android:textColor="@color/colorAccent"
+            android:textSize="24sp" />
+        <TextView
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="12dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/aclonica"
+            android:text="Turn off “hey siri” and “ok google” hotwords."
+            android:textColor="@color/colorAccent"
+            android:textSize="24sp" />
+        <TextView
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="12dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/aclonica"
+            android:text="Turn off visual effects, live widgets, and live wallpaper."
+            android:textColor="@color/colorAccent"
+            android:textSize="24sp"
+            />
+
+
+    </LinearLayout>
+</ScrollView>

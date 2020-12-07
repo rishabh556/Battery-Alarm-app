@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="304dp"
+        android:background="@drawable/cc2"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="143dp"
+            android:layout_height="112dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="30dp"
+            android:src="@drawable/rusure" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="366dp"
+            android:layout_height="45dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/aclonica"
+            android:text="Are you sure you want to Exit?"
+            android:textAlignment="center"
+            android:textColor="@color/colorAccent"
+            android:textSize="19sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="97dp"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:padding="30dp">
+
+            <Button
+                android:id="@+id/Exitybtn"
+                android:layout_width="100dp"
+                android:layout_height="50dp"
+                android:layout_marginRight="30dp"
+                android:background="@color/colorAccent"
+                android:text="Yes"
+                android:textColor="#fff" />
+
+            <Button
+                android:id="@+id/Exitnbtn"
+                android:layout_width="100dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="2dp"
+                android:background="@color/colorAccent"
+                android:text="No"
+                android:textColor="#fff" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>
